@@ -27,14 +27,14 @@
 const pokemons = [
   {
     id: 1,
-    name: "bulbasaur",
-    types: ["grass", "poison"],
-    front: "sprites/front/001.png",
-    back:  "sprites/back/001.png",
+    name: "Karla",
+    types: ["Fairy"],
+    front: "sprites/front/Karla.png",
+    back:  "sprites/back/Karla.png",
     height: "0.7 m",
     weight: "6.9 kg",
-    category: "Semilla",
-    description: "Una rara semilla fue plantada en su lomo al nacer. La planta brota y crece con este Pokémon."
+    category: "Admin",
+    description: "El admin de Kalalan. Esta loco y se quiere suicidar."
   },
   {
     id: 4,
