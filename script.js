@@ -27,6 +27,28 @@
 const pokemons = [
   {
     id: 1,
+    name: "Kala",
+    types: ["Fairy"],
+    front: "sprites/front/Kala.png",
+    back:  "sprites/back/Kala.png",
+    height: "1.0 m",
+    weight: "6.9 kg",
+    category: "Admin",
+    description: "El admin de Karlaland, mira que mono ^"
+  },
+   {
+    id: 2,
+    name: "Krla",
+    types: ["Fairy"],
+    front: "sprites/front/Krla.png",
+    back:  "sprites/back/Krla.png",
+    height: "1.0 m",
+    weight: "7.9 kg",
+    category: "Admin",
+    description: "Está loco, se quiere suicidar."
+  },
+   {
+    id: 3,
     name: "Karla",
     types: ["Fairy"],
     front: "sprites/front/Karla.png",
@@ -34,7 +56,7 @@ const pokemons = [
     height: "0.7 m",
     weight: "6.9 kg",
     category: "Admin",
-    description: "El admin de Kalalan. Esta loco y se quiere suicidar."
+    description: "Ha transcendido a Fumo."
   },
   {
     id: 4,
